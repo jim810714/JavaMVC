@@ -1,0 +1,24 @@
+body {
+  background-color: #EEEED1;
+}
+
+#container {
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+
+#leftDiv { 
+	width: 35%;
+/* 	background-color: white; */
+}
+
+#content {
+	width: 30%;
+/* 	background-color: green;  */
+}
+ 
+#rightDiv {
+	width: 35%;
+/* 	background-color: yellow; */
+}
